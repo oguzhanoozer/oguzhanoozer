@@ -12,7 +12,7 @@ Hi, I'm **Oguzhan**, a mobile(Flutter) and backend developer. My passion is deve
 <a href="https://twitter.com/oguzoozer"><img src="https://img.shields.io/badge/oguzoozer-%231DA1F2.svg?&style=flat_square&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/oguzhanoozer/"><img src="https://img.shields.io/badge/oguzhanoozer-%230077B5.svg?&style=flat_square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/oguzhanoozer"><img src="https://img.shields.io/badge/Follow-%23121011.svg?&style=flat_square&logo=github&logoColor=white"/></a>
-<a href="https://www.kaggle.com/oguzhann"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat_square&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.kaggle.com/oguzhann"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=&logo=Kaggle&logoColor=white"/></a>
 <a href="https://devpost.com/oguzhanozer"><img src="https://img.shields.io/badge/devpost.com-0A0A0A?style=flat_square&logo=dev.to&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=oguzhanoozer&label=Visitors&color=ce9927&style=flat" alt="oguzhanoozer"/> 
 
