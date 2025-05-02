@@ -4,7 +4,7 @@
 <p align="center"><img src="https://media.tenor.com/z0YRvaAhAvkAAAAC/minion-you-are-amazing.gif" 
 alt="" width="400" height="300" border="10" /></p>
 
-Hi, I'm **Oguzhan**, a mobile(Flutter) and backend developer. My passion is developing software and editing photographs I have taken. I love reading, camping and taking photographs. The best thing what I love in life is to constantly **learn**.
+Hi, I'm **Oguzhan**, an iOS (SwiftUI) and Flutter developer. My passion is developing software and editing photographs I have taken. I love reading, camping and taking photographs. The best thing what I love in life is to constantly **learn**.
 
 ---
 
